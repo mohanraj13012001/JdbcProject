@@ -1,0 +1,4 @@
+dataSourceClassName=com.mysql.cj.jdbc.MysqlDataSource
+dataSource.url=jdbc:mysql://localhost:3306/user
+dataSource.user=root
+dataSource.password=root
